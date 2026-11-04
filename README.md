@@ -111,4 +111,4 @@ payment-matcher/
 
 ---
 
-Built by [Musharrat Rahman](https://linkedin.com/in/musharrat-rahman). MIT licensed.
+   Built by [Musharrat Rahman](https://musharrat-rahman.vercel.app) ([LinkedIn](https://linkedin.com/in/musharrat-rahman)). MIT licensed.
