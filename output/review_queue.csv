@@ -1,0 +1,38 @@
+payment_id,customer_id,unapplied_amount,category,reason
+PAY-50001,CUST-022,9450.00,Too many candidates,"No remittance, and 16 open invoices is too many to search safely for a combination"
+PAY-50003,CUST-013,4200.00,Ambiguous match,Ambiguous: 8 open invoices have exactly this amount
+PAY-50004,CUST-008,3150.00,Ambiguous match,Ambiguous: 4 open invoices have exactly this amount
+PAY-50006,CUST-009,3500.00,Short payment,"Short payment: Remittance lists $3,750.00 but payment is $3,500.00. Needs a decision on which invoice is short."
+PAY-50010,CUST-009,2400.00,Ambiguous match,Ambiguous: 4 open invoices have exactly this amount
+PAY-50011,CUST-014,1250.00,Ambiguous match,Ambiguous: 4 open invoices have exactly this amount
+PAY-50013,CUST-024,4200.00,Ambiguous match,Ambiguous: 8 open invoices have exactly this amount
+PAY-50015,CUST-017,3344.37,Too many candidates,"No remittance, and 16 open invoices is too many to search safely for a combination"
+PAY-50018,CUST-022,3150.00,Ambiguous match,Ambiguous: 12 open invoices have exactly this amount
+PAY-50023,CUST-018,3500.00,Short payment,"Short payment: Remittance lists $3,750.00 but payment is $3,500.00. Needs a decision on which invoice is short."
+PAY-50025,CUST-029,7850.00,Too many candidates,"No remittance, and 19 open invoices is too many to search safely for a combination"
+PAY-50026,CUST-027,8150.00,Short payment,"Short payment: Remittance lists $8,400.00 but payment is $8,150.00. Needs a decision on which invoice is short."
+PAY-50028,CUST-004,1250.00,Ambiguous match,Ambiguous: 8 open invoices have exactly this amount
+PAY-50034,CUST-003,3150.00,Ambiguous match,Ambiguous: 2 open invoices have exactly this amount
+PAY-50035,CUST-002,3125.00,Ambiguous match,Ambiguous: more than one combination of invoices adds up to this amount
+PAY-50037,CUST-022,4775.00,Short payment,"Short payment: Remittance lists $5,025.00 but payment is $4,775.00. Needs a decision on which invoice is short."
+PAY-50038,CUST-012,1875.00,Invalid invoice reference,Remittance: invoice list failed validation (INV-10271 belongs to a different customer)
+PAY-50039,CUST-005,1875.00,Ambiguous match,Ambiguous: 4 open invoices have exactly this amount
+PAY-50046,CUST-013,2400.00,Ambiguous match,Ambiguous: 4 open invoices have exactly this amount
+PAY-50050,CUST-019,926.37,Too many candidates,"No remittance, and 20 open invoices is too many to search safely for a combination"
+PAY-50052,CUST-020,4200.00,Invalid invoice reference,Remittance: invoice list failed validation (INV-10156 belongs to a different customer)
+PAY-50054,CUST-023,3750.00,Ambiguous match,Ambiguous: more than one combination of invoices adds up to this amount
+PAY-50056,CUST-020,1875.00,Ambiguous match,Ambiguous: 2 open invoices have exactly this amount
+PAY-50061,CUST-019,1875.00,Ambiguous match,Ambiguous: 4 open invoices have exactly this amount
+PAY-50062,CUST-015,2500.00,Ambiguous match,Ambiguous: more than one combination of invoices adds up to this amount
+PAY-50064,CUST-017,8400.00,Ambiguous match,Ambiguous: more than one combination of invoices adds up to this amount
+PAY-50070,CUST-018,1875.00,Ambiguous match,Ambiguous: 7 open invoices have exactly this amount
+PAY-50072,CUST-018,7551.37,No information,"No remittance, no invoice number, and no confident amount match"
+PAY-50073,CUST-020,3750.00,Ambiguous match,Ambiguous: more than one combination of invoices adds up to this amount
+PAY-50074,CUST-015,5025.00,Ambiguous match,Ambiguous: more than one combination of invoices adds up to this amount
+PAY-50075,CUST-025,4219.37,No information,"No remittance, no invoice number, and no confident amount match"
+PAY-50078,CUST-013,4025.00,Short payment,"Short payment: Remittance lists $4,275.00 but payment is $4,025.00. Needs a decision on which invoice is short."
+PAY-50080,CUST-011,1250.00,Invalid invoice reference,Remittance: invoice list failed validation (INV-10170 belongs to a different customer)
+PAY-50082,CUST-013,1250.00,Invalid invoice reference,Remittance: invoice list failed validation (INV-10003 belongs to a different customer)
+PAY-50085,CUST-011,6600.00,Ambiguous match,Ambiguous: more than one combination of invoices adds up to this amount
+PAY-50086,CUST-018,6755.37,No information,"No remittance, no invoice number, and no confident amount match"
+PAY-50088,CUST-005,4200.00,Ambiguous match,Ambiguous: 8 open invoices have exactly this amount
